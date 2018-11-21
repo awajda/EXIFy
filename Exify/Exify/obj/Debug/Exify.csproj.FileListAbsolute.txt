@@ -1,0 +1,10 @@
+c:\users\awajd\documents\visual studio 2017\Projects\Exify\Exify\bin\Debug\Exify.exe.config
+c:\users\awajd\documents\visual studio 2017\Projects\Exify\Exify\bin\Debug\Exify.exe
+c:\users\awajd\documents\visual studio 2017\Projects\Exify\Exify\bin\Debug\Exify.pdb
+c:\users\awajd\documents\visual studio 2017\Projects\Exify\Exify\obj\Debug\Exify.csprojResolveAssemblyReference.cache
+c:\users\awajd\documents\visual studio 2017\Projects\Exify\Exify\obj\Debug\Exify.exe
+c:\users\awajd\documents\visual studio 2017\Projects\Exify\Exify\obj\Debug\Exify.pdb
+c:\users\awajd\documents\visual studio 2017\Projects\Exify\Exify\bin\Debug\MetadataExtractor.dll
+c:\users\awajd\documents\visual studio 2017\Projects\Exify\Exify\bin\Debug\XmpCore.dll
+c:\users\awajd\documents\visual studio 2017\Projects\Exify\Exify\bin\Debug\MetadataExtractor.xml
+c:\users\awajd\documents\visual studio 2017\Projects\Exify\Exify\bin\Debug\XmpCore.xml
